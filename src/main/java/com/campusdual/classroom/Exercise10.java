@@ -1,6 +1,5 @@
 package com.campusdual.classroom;
 
-import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Exercise10 {
